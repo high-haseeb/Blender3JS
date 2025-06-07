@@ -3,3 +3,6 @@ build: main.c
 
 run: build
 	./main
+
+clean:
+	rm main
